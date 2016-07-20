@@ -1,0 +1,131 @@
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:300,400,700);/*
+
+*{margin:0;padding:0;}
+
+*/body{
+  background:none;
+  font-family:'Open Sans',sans-serif;
+}/*
+
+.contenedor{
+  width:100px;
+  background:#3399cc;
+  display:block;
+  margin:0 auto;
+  margin-top:1%;
+  padding:10px;
+  text-align:center;}
+  text-decoration:none;
+  color:#fff;
+  cursor:pointer;
+  transition:background .3s;
+  -webkit-transition:background .3s;
+}
+
+.contenedor:hover{
+  background:#2288bb;
+}/*
+
+*/#resultado{
+  width:400px;
+  margin:0 auto;
+  margin-top:8px;
+  margin-bottom:2%;
+  transition:opacity 1s;
+  -webkit-transition:opacity 1s;
+  text-align: left;
+  line-height:3px;
+}/*
+
+*/#formulario{
+  width:0;
+  border-top:12px solid transparent;
+  border-right:12px solid transparent;
+  border-bottom:12px solid #3399cc;
+  border-left:12px solid transparent;
+  margin:0 auto;
+}/*
+
+#contenedor h1{
+  background:#3399cc;
+  padding:20px 0;
+  font-size:140%;
+  font-weight:300;
+  text-align:center;
+  color:#fff;
+}
+
+#contenedor h2{
+  background:#3399cc;
+  padding:20px 0;
+  font-size:140%;
+  font-weight:300;
+  text-align:center;
+  color:#fff;
+}
+
+*/form{
+  background:rgba(213, 213, 213, 0.2);
+  padding:6% 4%;
+  text-align: center;
+}/*
+
+*/input[type="text"],input[type="password"]{
+  width:92%;
+  background:#fff;
+  margin-bottom:2%;
+  border:1px solid #ccc;
+  padding:4%;
+  font-family:'Open Sans',sans-serif;
+  font-size:95%;
+  color:#555;
+}/*
+
+input[type="submit"]{
+  width:100%;
+  background:#3399cc;
+  border:0;
+  padding:4%;
+  font-family:'Open Sans',sans-serif;
+  font-size:100%;
+  color:#fff;
+  cursor:pointer;
+  transition:background .3s;
+  -webkit-transition:background .3s;
+}
+
+*/input[type="submit"]:hover{
+  background:#2288bb;
+}
+
+img[href="acceso.php"]:hover{
+    background: #DF4040;
+}
+
+button{
+    width:100%;
+  background:#DF4040;
+  border:2px;
+  padding:2%;
+  font-family:'Open Sans',sans-serif;
+  font-size:100%;
+  color:#fff;
+  cursor:pointer;
+  transition:background .3s;
+  -webkit-transition:background .3s;
+}/*
+
+*/select{
+  width:50%;
+  border:2px;
+  padding:2%;
+  font-family:'Open Sans',sans-serif;
+  font-size:90%;
+  color:#000;
+  text-align: center;
+    
+}/*
+
+table{
+    text-align: center;
+}*/
